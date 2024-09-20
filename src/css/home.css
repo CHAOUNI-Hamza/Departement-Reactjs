@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+.profile {
+    text-align: center;
+    margin-top: 15px;
+}
+.profile h3 {
+    color: darkcyan;
+}
+.card-departement {
+    margin-top: 90px;
+}
+.card-departement .card {
+    padding-top: 142px;
+    font-family: "Tajawal", sans-serif;
+    margin-bottom: 80px;
+}
+.card-departement img {
+    padding: 20px;
+    position: absolute;
+    bottom: 67%;
+    border-radius: 31px;
+    height: 231px;
+}
+
+.card-departement .card-title {
+    font-size: 22px;
+    margin-bottom: 17px;
+    margin-top: 6px;
+}
+
+.card-departement .btn {
+    background: darkseagreen;
+    color: white;
+    border-radius: 45px;
+}
+
+.carousel-inner .carousel-item img {
+    height: 700px;
+    object-fit: cover;
+}
+.fixed-top {
+    position: relative;
+}
+.navbar {
+    background: white;
+}
+.bar-top {
+    background: #298fcb;
+}
+.bar-top .nav-link {
+    color: white;
+}
+.titre {
+    margin-top: 36px;
+    margin-right: 18px;
+    margin-bottom: 0;
+    color: rgb(143 188 143);
+    text-align: right;
+}
+
+.carousel-caption {
+    background: #ffffffab;
+    color: var(--dark);
+    border-radius: 65px;
+    bottom: 89px !important;
+}
+.carousel-caption h5 {
+    font-size: 35px;
+    font-family: 'Tajawal';
+}

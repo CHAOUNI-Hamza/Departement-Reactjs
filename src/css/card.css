@@ -1,0 +1,41 @@
+.card {
+  border: none;
+  border-radius: 10px;
+  transition: all 1s;
+  cursor: pointer;
+  font-family: 'Al-Jazeera-Arabic-Bold';
+}
+
+.card:hover {
+  -webkit-box-shadow: 3px 5px 17px -4px #777777;
+  box-shadow: 3px 5px 17px -4px #777777
+}
+
+small {
+  margin-top: 7px;
+    color: brown;
+    font-size: 14px;
+}
+
+.apointment button {
+  border-radius: 20px;
+  background-color: #42ddfc;
+  color: #ffffff;
+  border-color: #eee;
+  font-size: 13px
+}
+.modal {
+  font-family: 'Al-Jazeera-Arabic-Bold';
+}
+.modal-body {
+  text-align: justify;
+}
+.btn-close {
+  background: none;
+  font-family: monospace;
+  border: none;
+  color: chocolate;
+}
+.modal-title {
+  color: cadetblue;
+}
